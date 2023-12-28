@@ -1,0 +1,4 @@
+# virtualenv
+.bedmill-api/
+
+__pycache__/
